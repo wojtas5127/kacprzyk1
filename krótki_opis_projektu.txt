@@ -1,0 +1,1 @@
+Jest to projekt sklepu z częściami komputerowymi konkretnie samych zamówień tego sklepu. Baza danych przechowuje dane o klientach, produktach, pracownikach, kurierach i zamówieniach. Baza danych ma za zadanie pokazanie kto zamówił jaki produkt, kurier jakiej firmy go przywiezie jaki pracownik wysłał dany produkt. 
